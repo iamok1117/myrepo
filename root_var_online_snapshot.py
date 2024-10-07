@@ -47,6 +47,8 @@ waiter.wait(
     SnapshotIds = [var_snapshot_id]
 )
 print(f"var snapshot {var_snapshot_id} is completed for the volume {my_snapshot_volume_list[1]}")
+print("habibi come to dubai")
+
 #habibi come to dubai this is for git hub practice
 #dhoni finishes off in style
 
